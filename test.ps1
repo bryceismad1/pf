@@ -1,1 +1,1 @@
-Write-Host "Hello, World!"
+\\T:\Bprutsos\scripts\pip.ps1
