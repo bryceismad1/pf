@@ -1,1 +1,1 @@
-\\T:\Bprutsos\scripts\pip.ps1
+T:\Bprutsos\scripts\pip.ps1
